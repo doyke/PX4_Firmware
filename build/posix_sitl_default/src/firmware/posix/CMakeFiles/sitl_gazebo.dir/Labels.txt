@@ -1,0 +1,14 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/src/firmware/posix/CMakeFiles/sitl_gazebo
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/src/firmware/posix/CMakeFiles/sitl_gazebo.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/src/firmware/posix/CMakeFiles/sitl_gazebo-complete.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule
+/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule

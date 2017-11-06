@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/src/firmware/posix/CMakeFiles/sitl_gazebo"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/src/firmware/posix/CMakeFiles/sitl_gazebo.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/src/firmware/posix/CMakeFiles/sitl_gazebo-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule"
+		},
+		
+		{
+			"file" : "/Users/yeshramesh/Dropbox/UCSB/2017-2018/q1_fall/ece189a/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "sitl_gazebo" ],
+		"name" : "sitl_gazebo"
+	}
+}
